@@ -1,0 +1,9 @@
+
+TASK 2 SUMMARY
+
+AI enhances test coverage by automating test scenarios that are repetitive and complex, which are difficult for people to handle.
+ AI-driven tools, including Selenium, Testim, and Appium, can run hundreds of test cases simultaneously, which ensures coverage of every feature, input, and edge case imaginable.
+  Unlike manual testing, which relies on human effort and might let hidden defects slip through, the algorithms of AI adapt to UI changes, learn from previous runs, and generate new test cases automatically. 
+  This continuous learning makes sure that even minor updates in code or interface have been covered. 
+  Thus, AI testing minimizes human error, increases efficiency, and frees testers to high-level analysis rather than routine tasks.
+   Altogether, AI-powered automation enhances reliability, accuracy, and speed: more comprehensive and deeper test coverage compared to traditional manual method

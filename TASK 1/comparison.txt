@@ -1,0 +1,17 @@
+
+Manual Implementation:
+Manually written version: simple and clear; employs Python's inherent sorted() function 
+ which is efficient with a time complexity of O(n log n); great for readability and educational understanding,
+  especially when learning basic sorting in Python. However, it lacks flexibility: no reverse option, 
+  and no error handling.
+
+
+
+AI-Suggested Implementation:
+
+The code produced by AI is a bit more sophisticated: 
+it includes error handling and a reverse option, which make it suitable for real-world applications. Another advantage is that the .get() method prevents runtime errors in case some key does not exist in the dictionary.
+ Performance-wise, they are practically identical, as both rely on Python's efficient sorted() function,
+  but the AI version is more robust and user-friendly. Conclusion: While this manual code is more readable,
+   the AI-generated version is better at dealing with surprising data and much more feature-complete, 
+   thus illustrating how AI tools can improve developer productivity by anticipating real-world coding needs.
